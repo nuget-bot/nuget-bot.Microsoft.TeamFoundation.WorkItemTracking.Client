@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>nuget-bot.Microsoft.TeamFoundation.WorkItemTracking.Client</id>
-    <version>12.0.30501.1</version>
+    <version>12.0.30501.2</version>
     <title>nuget-bot.Microsoft.TeamFoundation.WorkItemTracking.Client</title>
     <authors>Microsoft</authors>
     <projectUrl>https://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.workitemtracking.client.aspx</projectUrl>
@@ -17,6 +17,7 @@
 			<dependency id="nuget-bot.Microsoft.TeamFoundation.Common" version="12.0.30501.1" />
 			<dependency id="nuget-bot.Microsoft.TeamFoundation.WorkItemTracking.Common" version="12.0.31101.0" />
 			<dependency id="nuget-bot.Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage" version="12.0.31101.0" />
+			<dependency id="nuget-bot.Microsoft.TeamFoundation.WorkItemTracking.Proxy" version="12.0.31101.0" />
 		</group>
 	</dependencies>
     <releaseNotes></releaseNotes>
